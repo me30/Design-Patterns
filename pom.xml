@@ -7,8 +7,10 @@
   <name>Design-Patterns</name>
   
   <modules>
+  	<module>CreationalDesignPatterns_FactoryPattern</module>
 	<module>CreationalDesignPatterns_AbstractFactoryPattern</module>
 	<module>CreationalDesignPatterns_BuilderDesignPattern</module>
+	<module>CreationalDesignPatterns_PrototypePattern</module>
   </modules>
 	
 </project>
